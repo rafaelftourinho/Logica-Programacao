@@ -3,3 +3,8 @@
 *.txt
 .last_revision
 MEDIA_PONDERADA.ALG
+*.depend
+*.layout
+*.cbp
+*bin
+*obj
